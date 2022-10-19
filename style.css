@@ -4,6 +4,8 @@ body {
   background-size: cover;
   height: 100hr;
   background-attachment: fixed;
+  min-width: 300px;
+  max-width: 100%;
 }
 
 h1{
