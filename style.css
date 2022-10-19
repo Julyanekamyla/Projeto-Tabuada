@@ -1,0 +1,35 @@
+body {
+  background-image: url(numeros.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100hr;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align: center;
+  text-shadow: 2px 2px 2px rgb(26, 120, 61);
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(207, 91, 7);
+}
+
+div{
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  border-radius: 15px;
+  padding: 20px;
+  width: 450px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p >select{
+  padding-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ footer {
+  text-align: center;
+  text-shadow: 2px 2px 2px rgb(208, 211, 209);
+  font-weight: bold;
+ }
